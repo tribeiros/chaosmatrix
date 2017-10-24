@@ -1,0 +1,330 @@
+Thu 24 Feb 94 21:14                             
+By: Maxwells Delysid Machine
+To: All
+Re: TRANSMISSIONS 4.0.2
+----------------------------------------------------------------------
+From: alamut@netcom.com (Maxwells Delysid Machine)
+@Path: 
+bengal.oxy.edu!usc!news.service.uci.edu!ihnp4.ucsd.edu!library.ucla.edu!csulb.edu!csus.edu!netcom.com!alamut
+Newsgroups: alt.magick, alt.pagan, alt.magick.chaos, alt.magick.sex
+@Subject: TRANSMISSIONS 4.0.2
+Organization: Longinus Software & Garden ov Delights
+Message-ID: <alamutCLqyzs.66r@netcom.com>
+@Date: Thu, 24 Feb 1994 21:14:15 GMT
+
+Contact Has Been Established....
+
+     +++++
+     +   +
+++++++   ++++++  Thee Temple ov Psychick Youth North America
++             +
+++++++   ++++++  TRANSMISSIONS
+   +++   +++
+   +       +     Thee Electronic Journal of TOPYNA     
+   +++   +++
+++++++   ++++++  Edition 4.02
++     p23     +  Timefix: 2.23.1994 ev
+++++++   ++++++
+     +   +       Contact: alamut@netcom.com (Coyote 129)
+     +++++                vajra@u.washington.edu (Coyote 131)
+
++++++++++++++++++++ Lbh ner ab ybatre n fynir +++++++++++++++++++++++
+4.02.0 - Menu
+
+4.02.1 - editorial by Coyote 129
+4.01.2 - TOPY Internet Archive site listing             
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+4.02.1 - Editorial
+
+Well, its happening. As of 2.17.1994 Thee Temple ov Psychick Youth got
+a new home on the Internet. Our new home is much nicer for a variety
+of reasons, not the least being that we no longer have to worry about
+disk quotas and will be able to put up a much larger volume of data.
+the anonymous FTP site should be active by the end of this week`.
+a listing of the available files is appended.
+
+other changes include setting up the TRANSMISSIONS subscription list
+as a mailing list... if you would like to send mail to the list, address
+your message to:
+
+                topy-allies@riapub.com
+                                      
+this list will be archived, and perhaps in time, the TRANSMISSIONS digest
+will be merely a digest of the mailing list. we will see.
+
+if you are an active sigilizer and you are reading this, please contact
+me.
+
+ever growing, ever changing
+c129 alamut@netcom.com / max@riapub.com
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+4.02.2 - Thee Temple ov Psychick Youth Internet Archive listing
+
+these are the complete listings as of 2.20.94. we will be publishing
+a list of additions monthly.
+
+[for those of you who are not familiar with URL's:
+the listings are in this format:
+
+service://hostname/directory
+
+therefore:
+
+ftp://heimdall.riapub.com/pub/alamut/topy
+
+means ftp to the host 'heimdall.riapub.com' and look in the directory
+/pub/alamut/topy
+
+got it?]
+
+Thee Temple ov Psychick Youth Internet Archive
+Last updated 2.20.1994
+ftp://heimdall.riapub.com/pub/alamut/topy
+------------------------------
+[23Magick.txt]
+Magick
+By Coyote 23
+------------------------------
+[Alpha_Theta]
+ALPHA AND THETA AWARENESS
+ELF-10C: A NEW BREAKTHROUGH IN STRESS MANAGEMENT
+1987 by Alpha Energy Products, Inc.
+------------------------------
+[anethema_ov_zos]
+THE SERMON TO THE HYPOCRITES
+An Automatic Writing By Austin Osman Spare
+------------------------------
+[book_ov_pleasure]
+THE BOOK OF PLEASURE (SELF-LOVE). THE PSYCHOLOGY OF ECSTASY. 
+BY AUSTIN OSMAN SPARE.
+------------------------------
+[burroughs.txt]
+William Burroughs -- A Sketch
+John C. Kramer, M.D. Associate Professor, Department of Psychiatry,
+   University of California of Medicine, Irvine, California 92717.
+------------------------------
+[const.in.cyberspace]
+Laurence H. Tribe, "The Constitution in Cyberspace"
+------------------------------
+[cut_ups_explained]
+~ CUT-UPS SELF-EXPLAINED ~
+by Brion Gysin
+------------------------------
+[cut_up_method]
+a cut_up describing the cut_up technique
+------------------------------
+[cyber.txt]
+THE BIOCRAFT REPAIR MANUAL
+Cybernautics: THE FIXER  --A New Self-transformation Program Unveiled!
+by Orfeo
+------------------------------
+[Cyberpunks]
+C   Y   B   E   R   P   U   N   K   S
+by Dr. Timothy Leary
+------------------------------
+[cyber_rites]
+Old Rituals for New Space: Rites de Passage and William Gibson's Cultural 
+Model of Cyberspace
+By David Tomas
+------------------------------
+[Dada]
+Dada is...
+------------------------------
+[Dada Nazis]
+Dada, Merz, and a National Socialist Party party
+by Sibyl Moholy-Nagy
+------------------------------
+[egregore]
+Notes on the role of the historical Egregore in modern Magic,
+by Fra.: U.D.
+------------------------------
+[Focus_ov_Life]
+Focus_ov_Life
+By Austin Osman Spare
+------------------------------
+[genesis]
+~ Genesis P-Orridge ~
+by Charles Neal
+------------------------------
+[GreyBook.txt]
+What TOPY is and does. V2.0 USA 1988
+------------------------------
+[HERETOGO.TXT]
+~ THE CUT-UP METHOD OF BRION GYSIN ~
+From Re/Search
+------------------------------
+[Immortality]
+~ IMMORTALITY ~
+by William S. Burroughs
+------------------------------
+[InfoWar.txt]
+NOTHING SHORT OV A TOTAL WAR (STANZA L).
+by Genesis P-Orridge
+------------------------------
+[init.txt]
+A Redefinition ov Initiation
+Coyote12
+------------------------------
+[intopy.txt]
+The following interview between AntiClock Wise and Thee Temple ov 
+Psychick Youth London Access Point was conducted by mail. It is meant to 
+give a general picture of TOPY, for more specific info contact TOPY. It 
+should also be pointed out that the subject of this piece is NOT the band 
+Psychic TV.
+------------------------------
+[intro.txt]
+~ An Introduction to the Temple Ov Psychick Youth ~
+c:1984 (much has changed)
+------------------------------
+[Jaron.TXT]
+Jaron Lanier interview taken from OMNI magazine, Jan '91.
+------------------------------
+[Kali.txt]
+The Manifestation of Kali in Universe as an Astrophysical Anomaly
+By Persona Navitae 353.
+------------------------------
+[leary001.txt]
+Load & Run High-tech Paganism-Digital Polytheism
+By Timothy Leary and Eric Gullichsen
+------------------------------
+[Legal_Cyberspace]
+Cyberspace and the Legal Matrix: Laws or Confusion?
+From: elrose@well.sf.ca.us (Lance Rose)
+------------------------------
+[life_and_works-of_reich]
+~ THE LIFE AND WORKS OF WILHELM REICH ~
+The Sex-Economic and Orgone Biophysical Discoveries of a Great Natural 
+Scientist
+------------------------------
+[lilly_interview]
+~ John C. Lilly interviewed by Rebecca McClen & David Jay Brown  ~
+------------------------------
+[lsd_probchild]
+LSD - My Problem Child
+Albert Hofmann
+------------------------------
+[luna_manifesto]
+Thee Manifesto ov TOPY luna, Tacoma, WA
+------------------------------
+[Manifesto.txt]
+MANIFESTO IN CLEAR LANGUAGE
+by Antonin Artaud
+------------------------------
+[natural_fascism]
+NATURE'S ETERNAL FASCISM
+------------------------------
+[NewPhysex]
+Scientific Sex Magick
+Coyote12  12-23-89
+------------------------------
+[new_realities]
+~ Are new realities more or less real? ~
+Fears and optimism about artificial worlds
+[Taken from U.S.News & World Report, January 28, 1991]
+------------------------------
+[no_knickers_for_dada]
+«NO KNICKERS FOR DA DA» NO COPYRIGHT 1990 DADA ACTION GROUP
+------------------------------
+[On_War_and_Religion]
+OF EAGLES, HAWKS AND DOVES
+by Maureen Martin
+------------------------------
+[Oranur_Experiment]
+~ THE ORANUR EXPERIMENT ~ by Wilhelm Reich
+An Abstract for Anti-nuclear Activists
+------------------------------
+[PHREAK.TXT]
+As the judge said, "some take to heroin, some take to telephones"
+------------------------------
+[psychedelic_experience]
+~ The Psychedelic Experience ~
+A manual based on the Tibetan Book of the Dead
+By Timothy Leary, Ph.D., Ralph Metzner, Ph.D., &
+Richard Alpert, Ph.D.
+------------------------------
+[Psychick_Graffiti]
+Texts from the 1990 Psychick Graffiti TOPY Mailer
+------------------------------
+[Psychic_TV]
+~ PSYCHIC TV ~
+Interview from by Charles Neal taken from Tape Delay '87
+------------------------------
+[PTVInt.txt]
+~ An Interview with PSYCHIC TV by Sandy Charron ~
+Recorded on "Synesthesia" program WZBC 4:21:84
+------------------------------
+[quantum.txt]
+QUANTUM MAGIC
+REALITY AS DESCRIBED BY QUANTUM MECHANICS
+------------------------------
+[sleepchamber_interview]
+Sleep Chamber interview conducted by Pharaoh Chromium 93 and Tank Bitch
+INTERVIEW WITH JOHN ZEWIZZ 8/18/92
+------------------------------
+[sorceries_ov_zos]
+sorceries_ov_zos
+From 'Cults of the Shadow' by Kenneth Grant
+------------------------------
+[SymbolSystems]
+Symbol Sytems for you and E... by Pharaoh Chromium
+------------------------------
+[the_trickster]
+THE RIDDLE OF THE TRICKSTER
+a cross-cultural overview
+by Thunderspud of Dragonfhain
+------------------------------
+[Throttle.txt]
+THEE THROTTLE
+by Genesis P-Orridge
+------------------------------
+[topyFAQ.txt]
+Frequently Asked Questions V1.02 Ratio Zero
+------------------------------
+[topyna.gif]
+Thee logo ov Thee Temple ov Psychick Youth North America
+------------------------------
+[transmissions]
+/directory
+Archive of all TRANSMISSIONS, TOPY online Magazine
+------------------------------
+[troel1.txt]
+~ The Revolution of Everyday Life ~ [Chapter 1]
+by Raoul Vaneigem
+------------------------------
+[VR.txt]
+Virtual Reality:  Directions of Growth
+    Notes from the SIGGRAPH '90 Panel
+------------------------------
+[what_is_dada]
+        Like everything in life, Dada is useless.
+        Dada is without pretension, as life should be.
+------------------------------
+[whats_words_worth]
+What’s Words Worth? by Coyote 12
+<a must read!>
+------------------------------
+[WR_and_orgone]
+~ Wilhelm Reich & Orgone Biophysics ~ 
+by Pharaoh Chromium 93
+------------------------------
+[ZosKia.txt]
+~Austin Osman Spare and the Zos Kia Cultus~ plus 
+~The Death Posture and the New Sexuality~
+------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+a 3E Electronic Publication
+This is copyright (C)1994
+by Thee Temple ov Psychick Youth North America and individual authors
+Reproduce at will! please credit authors! don't sell! transmit yourself!
+
+... TRANSMISSION ENDS. QRT.
+-- 
+--->|<-------------------------------------------------------------------------
+<---|---> Max Delysid (N2XKB)      <this opinion is worth what you paid for it>
+  <-|->   Shin Shin Shukyo no Sensei! 
+<---|---> Internetage: alamut@netcom.com - NewtonMail: mxd@online.apple.com 
+--->|<-------------------------------------------------------------------------
+
+---
+ * Origin: gated usenet/chuckie.mcws.fidonet.org (213)256-8371 (1:102/851)
